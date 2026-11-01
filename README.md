@@ -76,6 +76,8 @@ No se suben al repositorio: son 100 por experimento. Quedan en la VM de quien co
 
 Nombre de cada archivo: `KA<código>_<semilla>_<corte>.csv`, por ejemplo `KA5111_384841_1800.csv`. En Kaggle, la descripción de cada envío dice `exp=<código> semilla=<semilla> envios=<corte>`.
 
+Para agregar un corte que no generó el notebook (por ejemplo 1400) sin volver a correr, `generar_corte.py` lo arma desde `prediccion.txt`, igual que el notebook: `python3 generar_corte.py --probar 5100 1500` regenera un corte existente y lo compara con el original; `python3 generar_corte.py 5100 1400` genera el nuevo en la carpeta `kaggle/` de cada semilla.
+
 ## Cómo replicar
 
 [Pendiente: orden de los notebooks, parámetros y cómo partir del dataset de la competencia.]
