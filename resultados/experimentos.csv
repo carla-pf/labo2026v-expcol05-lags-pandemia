@@ -1,0 +1,14 @@
+Experimento,Familia de lags,Configuración,Definición de pandemia,Notas
+5001,L1 (lags 1 y 2),C1 base: no excluye meses,— (base),"piloto, z620 con el error de param_final, no entra en el análisis"
+5100,L1 (lags 1 y 2),C1 base: no excluye meses,— (base),
+5111,L1 (lags 1 y 2),C2: sin pandemia en el entrenamiento,R - restringida 202003-202007,
+5121,L1 (lags 1 y 2),C3: sin pandemia + lags en NA,R - restringida 202003-202007,
+5112,L1 (lags 1 y 2),C2: sin pandemia en el entrenamiento,A - amplia 202003-202010 (ASPO AMBA),corrió Gustavo en su hardware
+5122,L1 (lags 1 y 2),C3: sin pandemia + lags en NA,A - amplia 202003-202010 (ASPO AMBA),corrió Gustavo en su hardware
+5200,"L2 (lags 1, 2, 3, 6 y 12)",C1 base: no excluye meses,— (base),
+5211,"L2 (lags 1, 2, 3, 6 y 12)",C2: sin pandemia en el entrenamiento,R - restringida 202003-202007,"Ian corrió 4 semillas (629903, 333331, 121229, 983209) el 1/11; Carla corre las 10 el 2-3/11, 5 en cada VM, también como prueba de reproducibilidad de esas 4"
+5221,"L2 (lags 1, 2, 3, 6 y 12)",C3: sin pandemia + lags en NA,R - restringida 202003-202007,
+5212,"L2 (lags 1, 2, 3, 6 y 12)",C2: sin pandemia en el entrenamiento,A - amplia 202003-202010 (ASPO AMBA),corrió Gustavo en su hardware
+5222,"L2 (lags 1, 2, 3, 6 y 12)",C3: sin pandemia + lags en NA,A - amplia 202003-202010 (ASPO AMBA),corrió Gustavo en su hardware
+45112,L1 (lags 1 y 2),C2: sin pandemia en el entrenamiento,A - amplia 202003-202010 (ASPO AMBA),"chequeo de sensibilidad de la 5112 con la grilla ampliada (num_leaves 16-1536, min_data_in_leaf 32-4096); corre Carla"
+45122,L1 (lags 1 y 2),C3: sin pandemia + lags en NA,A - amplia 202003-202010 (ASPO AMBA),"chequeo de sensibilidad de la 5122 con la grilla ampliada (num_leaves 16-1536, min_data_in_leaf 32-4096); corre Carla"

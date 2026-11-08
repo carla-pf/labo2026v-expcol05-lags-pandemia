@@ -1,0 +1,976 @@
+Fecha,Experimento,Notebook,Semilla,Quién,Corte (envíos),Ganancia pública (M),Notas
+2026-10-24,5001,620_WF_junior_grupoA_base.ipynb,629903,Ian,1800,86.396,"piloto, z620 con el error de param_final, no entra en el análisis"
+2026-10-24,5001,620_WF_junior_grupoA_base.ipynb,629903,Ian,1900,84.07,"piloto, z620 con el error de param_final, no entra en el análisis"
+2026-10-24,5001,620_WF_junior_grupoA_base.ipynb,629903,Ian,2000,85.399,"piloto, z620 con el error de param_final, no entra en el análisis"
+2026-10-24,5001,620_WF_junior_grupoA_base.ipynb,629903,Ian,2100,83.073,"piloto, z620 con el error de param_final, no entra en el análisis"
+2026-10-24,5001,620_WF_junior_grupoA_base.ipynb,629903,Ian,2200,80.664,"piloto, z620 con el error de param_final, no entra en el análisis"
+2026-10-24,5001,620_WF_junior_grupoA_base.ipynb,629903,Ian,2300,78.338,"piloto, z620 con el error de param_final, no entra en el análisis"
+2026-10-24,5001,620_WF_junior_grupoA_base.ipynb,629903,Ian,2400,82.16,"piloto, z620 con el error de param_final, no entra en el análisis"
+2026-10-24,5001,5001_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,1800,87.061,"piloto, z620 con el error de param_final, no entra en el análisis"
+2026-10-24,5001,5001_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,1900,84.984,"piloto, z620 con el error de param_final, no entra en el análisis"
+2026-10-24,5001,5001_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,2000,85.649,"piloto, z620 con el error de param_final, no entra en el análisis"
+2026-10-24,5001,5001_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,2100,82.658,"piloto, z620 con el error de param_final, no entra en el análisis"
+2026-10-24,5001,5001_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,2200,83.572,"piloto, z620 con el error de param_final, no entra en el análisis"
+2026-10-24,5001,5001_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,2300,81.08,"piloto, z620 con el error de param_final, no entra en el análisis"
+2026-10-24,5001,5001_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,2400,82.326,"piloto, z620 con el error de param_final, no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,1500,77.59,"protocolo anterior (grilla vieja), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,1600,88.556,"protocolo anterior (grilla vieja), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,1700,89.553,"protocolo anterior (grilla vieja), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,1800,86.479,"protocolo anterior (grilla vieja), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,1900,84.403,"protocolo anterior (grilla vieja), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,2000,81.412,"protocolo anterior (grilla vieja), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,2100,81.993,"protocolo anterior (grilla vieja), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,2200,79.667,"protocolo anterior (grilla vieja), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,2300,77.258,"protocolo anterior (grilla vieja), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,2400,77.507,"protocolo anterior (grilla vieja), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,1500,87.393,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,1600,85.233,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,1700,93.208,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,1800,90.799,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,1900,91.796,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,2000,88.972,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,2100,92.544,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,2200,90.301,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,2300,90.882,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,2400,89.055,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,1500,88.307,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,1600,85.649,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,1700,86.729,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,1800,83.655,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,1900,84.486,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,2000,89.221,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,2100,92.544,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,2200,93.458,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,2300,91.381,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,2400,88.889,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,1500,84.319,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,1600,85.233,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,1700,85.732,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,1800,86.147,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,1900,83.987,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,2000,81.744,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,2100,80.083,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,2200,84.153,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,2300,88.556,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,2400,89.304,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,1500,84.319,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,1600,81.246,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,1700,82.243,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,1800,80,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,1900,80.249,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,2000,87.31,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,2100,85.399,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,2200,85.981,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,2300,83.489,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,2400,81.495,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,1500,87.642,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,1600,85.566,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,1700,82.907,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,1900,83.904,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,2000,81.163,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,2100,78.753,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,2200,83.156,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,2300,86.895,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,2400,84.984,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,1500,80.913,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,1600,85.316,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,1700,82.658,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,1800,83.904,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,1900,85.316,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,2000,85.732,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,2100,85.815,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,2200,86.396,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,2300,84.236,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,2400,81.495,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,1500,84.319,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,1600,85.15,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,1700,89.553,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,1800,86.895,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,1900,84.735,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,2000,82.076,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,2100,82.575,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,2200,86.396,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,2300,87.227,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,2400,84.486,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,1500,84.652,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,1600,82.16,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,1700,79.584,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,1800,83.572,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,1900,84.319,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,2000,81.827,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,2100,85.233,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,2200,89.885,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,2300,94.288,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,2400,91.131,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,1500,80.996,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,1600,84.818,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,1700,85.815,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,1800,83.489,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,1900,80.747,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,2000,84.818,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,2100,82.076,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,2200,82.99,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,2300,80.332,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-27,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,2400,81.08,"grid de la semilla 629903 (protocolo anterior), no entra en el análisis"
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,1500,81.329,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,1600,88.639,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,1700,85.981,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,1800,83.323,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,1900,84.486,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,2000,85.233,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,2100,89.221,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,2200,86.313,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,2300,83.738,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,2400,80.996,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,1500,84.735,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,1600,82.076,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,1700,82.575,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,1800,79.833,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,1900,80,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,2000,81.163,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,2100,85.732,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,2200,86.396,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,2300,83.239,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,2400,81.08,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,1500,77.59,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,1600,88.556,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,1700,89.553,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,1800,86.479,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,1900,84.403,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,2000,81.412,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,2100,81.993,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,2200,79.667,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,2300,77.258,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,2400,77.507,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,1500,81.744,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,1600,88.556,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,1700,89.553,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,1800,86.978,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,1900,87.642,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,2000,84.901,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,2100,85.399,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,2200,82.326,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,2300,83.489,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,2400,88.141,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,1500,90.55,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,1600,91.879,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,1700,92.128,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,1800,90.135,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,1900,90.716,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,2000,87.809,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,2100,88.722,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,2200,86.729,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,2300,84.236,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,2400,81.329,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,1500,84.319,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,1600,81.744,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,1700,83.073,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,1800,80.332,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,1900,77.507,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,2000,78.089,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,2100,75.181,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,2200,79.917,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,2300,80.996,protocolo v3: grid y modelo final con la misma semilla
+2026-10-30,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,2400,78.338,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,1500,87.559,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,1600,85.399,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,1700,83.239,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,1800,83.572,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,1900,80.83,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,2000,88.224,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,2100,85.898,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,2200,87.061,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,2300,87.393,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,2400,85.15,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,1500,87.559,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,1600,86.064,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,1700,83.323,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,1800,80.747,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,1900,78.255,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,2000,79.086,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,2100,82.741,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,2200,83.156,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,2300,80.747,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,2400,78.172,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,1500,87.642,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,1600,88.141,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,1700,85.898,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,1800,83.156,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,1900,84.153,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,2000,81.163,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,2100,85.067,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,2200,86.147,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,2300,86.978,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,2400,85.316,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,1500,78.172,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,1600,78.587,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,1700,78.92,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,1800,80.083,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,1900,84.486,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,2000,84.818,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,2100,82.741,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,2200,80.166,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,2300,80.747,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,2400,81.661,protocolo v3: grid y modelo final con la misma semilla
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,629903,Ian,1500,85.233,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,629903,Ian,1600,83.323,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,629903,Ian,1700,84.07,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,629903,Ian,1800,84.735,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,629903,Ian,1900,85.981,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,629903,Ian,2000,82.99,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,629903,Ian,2100,84.569,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,629903,Ian,2200,84.984,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,629903,Ian,2300,82.409,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,629903,Ian,2400,86.23,máximo de la semilla
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,333331,Ian,1500,85.316,máximo de la semilla
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,333331,Ian,1600,82.326,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,333331,Ian,1700,80,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,333331,Ian,1800,80.747,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,333331,Ian,1900,81.661,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,333331,Ian,2000,82.575,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,333331,Ian,2100,83.239,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,333331,Ian,2200,80.747,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,333331,Ian,2300,81.91,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,333331,Ian,2400,80.166,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,121229,Ian,1500,87.31,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,121229,Ian,1600,88.556,máximo de la semilla
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,121229,Ian,1700,86.147,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,121229,Ian,1800,83.323,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,121229,Ian,1900,87.559,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,121229,Ian,2000,85.067,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,121229,Ian,2100,83.156,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,121229,Ian,2200,84.07,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,121229,Ian,2300,85.399,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,121229,Ian,2400,82.409,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,983209,Ian,1500,84.901,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,983209,Ian,1600,92.045,máximo de la semilla
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,983209,Ian,1700,89.553,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,983209,Ian,1800,87.144,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,983209,Ian,1900,85.399,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,983209,Ian,2000,82.824,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,983209,Ian,2100,80.249,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,983209,Ian,2200,81.163,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,983209,Ian,2300,78.753,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,983209,Ian,2400,76.76,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,100169,Ian,1500,91.713,máximo de la semilla
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,100169,Ian,1600,89.885,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,100169,Ian,1700,87.476,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,100169,Ian,1800,85.233,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,100169,Ian,1900,86.147,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,100169,Ian,2000,86.479,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,100169,Ian,2100,83.655,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,100169,Ian,2200,81.08,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,100169,Ian,2300,78.504,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,100169,Ian,2400,75.347,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,384841,Ian,1500,87.144,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,384841,Ian,1600,88.141,máximo de la semilla
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,384841,Ian,1700,85.482,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,384841,Ian,1800,86.064,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,384841,Ian,1900,83.239,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,384841,Ian,2000,80.996,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,384841,Ian,2100,78.421,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,384841,Ian,2200,79.003,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,384841,Ian,2300,77.092,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,384841,Ian,2400,78.504,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,612511,Ian,1500,85.649,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,612511,Ian,1600,82.741,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,612511,Ian,1700,87.476,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,612511,Ian,1800,87.892,máximo de la semilla
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,612511,Ian,1900,85.482,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,612511,Ian,2000,86.646,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,612511,Ian,2100,87.476,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,612511,Ian,2200,85.067,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,612511,Ian,2300,82.409,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,612511,Ian,2400,79.252,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,693809,Ian,1500,89.885,máximo de la semilla
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,693809,Ian,1600,88.058,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,693809,Ian,1700,89.055,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,693809,Ian,1800,89.304,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,693809,Ian,1900,87.476,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,693809,Ian,2000,85.15,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,693809,Ian,2100,82.492,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,693809,Ian,2200,80,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,693809,Ian,2300,77.341,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,693809,Ian,2400,75.514,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,761681,Ian,1500,84.984,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,761681,Ian,1600,86.313,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,761681,Ian,1700,87.061,máximo de la semilla
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,761681,Ian,1800,84.569,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,761681,Ian,1900,82.076,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,761681,Ian,2000,79.252,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,761681,Ian,2100,77.175,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,761681,Ian,2200,76.594,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,761681,Ian,2300,77.424,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,761681,Ian,2400,81.661,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,981653,Ian,1500,81.91,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,981653,Ian,1600,88.722,máximo de la semilla
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,981653,Ian,1700,86.147,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,981653,Ian,1800,86.978,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,981653,Ian,1900,84.735,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,981653,Ian,2000,85.316,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,981653,Ian,2100,86.147,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,981653,Ian,2200,83.987,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,981653,Ian,2300,81.661,
+2026-10-31,5111,5111_620_WorkFlow_01_junior_grupoA.ipynb,981653,Ian,2400,79.086,
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,629903,Ian,1500,87.31,
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,629903,Ian,1600,88.307,
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,629903,Ian,1700,86.562,
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,629903,Ian,2000,86.562,
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,629903,Ian,2200,94.704,máximo de los 5 cortes
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,333331,Ian,1500,88.473,máximo de los 5 cortes
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,333331,Ian,1600,86.313,
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,333331,Ian,1700,83.738,
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,333331,Ian,2000,83.073,
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,333331,Ian,2200,84.486,
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,121229,Ian,1500,84.818,máximo de los 5 cortes
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,121229,Ian,1600,82.326,
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,121229,Ian,1700,83.239,
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,121229,Ian,2000,84.486,
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,121229,Ian,2200,82.99,
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,983209,Ian,1500,88.224,
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,983209,Ian,1600,88.805,máximo de los 5 cortes
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,983209,Ian,1700,86.147,
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,983209,Ian,2000,87.642,
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,983209,Ian,2200,86.895,
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,100169,Ian,1500,75.347,
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,100169,Ian,1600,79.833,
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,100169,Ian,1700,80,
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,100169,Ian,2000,85.566,máximo de los 5 cortes
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,100169,Ian,2200,80.913,
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,384841,Ian,1500,87.725,máximo de los 5 cortes
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,384841,Ian,1600,85.067,
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,384841,Ian,1700,82.16,
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,384841,Ian,2000,82.16,
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,384841,Ian,2200,83.904,
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,612511,Ian,1500,78.421,
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,612511,Ian,1600,82.575,
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,612511,Ian,1700,80.083,
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,612511,Ian,2000,85.15,máximo de los 5 cortes
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,612511,Ian,2200,80.249,
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,693809,Ian,1500,91.464,
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,693809,Ian,1600,92.876,máximo de los 5 cortes
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,693809,Ian,1700,89.968,
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,693809,Ian,2000,86.064,
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,693809,Ian,2200,84.735,
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,761681,Ian,1500,84.984,
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,761681,Ian,1600,88.722,
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,761681,Ian,1700,89.802,máximo de los 5 cortes
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,761681,Ian,2000,87.642,
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,761681,Ian,2200,86.479,
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,981653,Ian,1500,78.255,
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,981653,Ian,1600,75.763,
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,981653,Ian,1700,76.344,
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,981653,Ian,2000,85.732,máximo de los 5 cortes
+2026-11-01,5121,5121_620_WorkFlow_01_junior_grupoA.ipynb,981653,Ian,2200,79.833,
+2026-11-01,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,629903,Ian,1500,81.744,
+2026-11-01,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,629903,Ian,1600,79.418,
+2026-11-01,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,629903,Ian,1700,83.073,
+2026-11-01,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,629903,Ian,1800,80.747,corte de control
+2026-11-01,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,629903,Ian,2000,84.319,máximo de los 5 cortes
+2026-11-01,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,629903,Ian,2100,85.067,corte de control
+2026-11-01,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,629903,Ian,2200,82.243,
+2026-11-01,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,629903,Ian,2400,84.153,corte de control
+2026-11-01,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,333331,Ian,1500,80.747,
+2026-11-01,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,333331,Ian,1600,82.16,
+2026-11-01,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,333331,Ian,1700,83.655,máximo de los 5 cortes
+2026-11-01,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,333331,Ian,1800,81.163,corte de control
+2026-11-01,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,333331,Ian,2000,82.741,
+2026-11-01,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,333331,Ian,2100,79.501,corte de control
+2026-11-01,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,333331,Ian,2200,76.843,
+2026-11-01,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,333331,Ian,2400,78.338,corte de control
+2026-11-01,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,121229,Ian,1500,87.642,
+2026-11-01,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,121229,Ian,1600,88.889,máximo de los 5 cortes
+2026-11-01,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,121229,Ian,1700,86.479,
+2026-11-01,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,121229,Ian,1800,83.655,corte de control
+2026-11-01,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,121229,Ian,2000,82.326,
+2026-11-01,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,121229,Ian,2100,79.086,corte de control
+2026-11-01,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,121229,Ian,2200,76.261,
+2026-11-01,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,121229,Ian,2400,77.923,corte de control
+2026-11-01,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,983209,Ian,1500,84.319,
+2026-11-01,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,983209,Ian,1600,85.482,
+2026-11-01,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,983209,Ian,1700,89.138,máximo de los 5 cortes
+2026-11-01,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,983209,Ian,1800,87.476,corte de control
+2026-11-01,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,983209,Ian,2000,85.898,
+2026-11-01,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,983209,Ian,2100,83.572,corte de control
+2026-11-01,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,983209,Ian,2200,84.07,
+2026-11-01,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,983209,Ian,2400,79.501,corte de control
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,1500,85.067,máximo de los 5 cortes
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,1600,82.658,
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,1700,80.083,
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,1800,80.415,corte de control
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,2000,75.181,
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,2100,75.347,corte de control
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,2200,73.437,
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,2400,69.449,corte de control
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,1500,77.84,
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,1600,78.753,
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,1700,86.064,máximo de los 5 cortes
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,1800,83.904,corte de control
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,2000,79.252,
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,2100,79.667,corte de control
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,2200,83.406,
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,2400,81.495,corte de control
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,1500,78.338,
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,1600,79.169,
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,1700,80.249,máximo de los 5 cortes
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,1800,77.59,corte de control
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,2000,75.597,
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,2100,76.344,corte de control
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,2200,76.427,
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,2400,74.351,corte de control
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,1500,79.833,
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,1600,81.08,
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,1700,81.993,máximo de los 5 cortes
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,1800,79.418,corte de control
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,2000,78.006,
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,2100,76.51,corte de control
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,2200,73.935,
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,2400,75.347,corte de control
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,1500,81.495,máximo de los 5 cortes
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,1600,78.753,
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,1700,76.51,
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,1800,77.175,corte de control
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,2000,75.763,
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,2100,72.938,corte de control
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,2200,76.76,
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,2400,78.255,corte de control
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,1500,77.674,máximo de los 5 cortes
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,1600,75.098,
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,1700,75.597,
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,1800,72.938,corte de control
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,2000,75.597,
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,2100,79.335,corte de control
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,2200,77.009,
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,2400,71.858,corte de control
+2026-11-01,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,1500,77.84,
+2026-11-01,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,1600,82.409,
+2026-11-01,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,1700,83.406,máximo de los 5 cortes
+2026-11-01,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,1800,83.572,corte de control
+2026-11-01,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,2000,82.326,
+2026-11-01,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,2100,82.658,corte de control
+2026-11-01,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,2200,80.83,
+2026-11-01,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,2400,75.264,corte de control
+2026-11-01,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,1500,81.329,
+2026-11-01,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,1600,78.837,
+2026-11-01,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,1700,83.821,máximo de los 5 cortes
+2026-11-01,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,1800,81.08,corte de control
+2026-11-01,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,2000,79.086,
+2026-11-01,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,2100,76.76,corte de control
+2026-11-01,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,2200,77.009,
+2026-11-01,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,2400,78.421,corte de control
+2026-11-01,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,1500,77.923,
+2026-11-01,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,1600,78.255,
+2026-11-01,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,1700,79.003,máximo de los 5 cortes
+2026-11-01,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,1800,76.178,corte de control
+2026-11-01,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,2000,74.849,
+2026-11-01,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,2100,73.437,corte de control
+2026-11-01,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,2200,70.945,
+2026-11-01,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,2400,72.523,corte de control
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,1500,84.486,máximo de los 5 cortes
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,1600,82.243,
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,1700,79.75,
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,1800,76.926,corte de control
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,2000,74.932,
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,2100,72.606,corte de control
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,2200,77.258,
+2026-10-31,5200,5200_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,2400,81.578,corte de control
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,1500,81.993,
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,1600,82.658,
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,1700,86.562,máximo de los 5 cortes
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,1800,83.987,corte de control
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,2000,81.329,
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,2100,79.169,corte de control
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,2200,76.76,
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,2400,77.674,corte de control
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,1500,84.652,
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,1600,82.741,
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,1700,87.227,
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,1800,84.735,corte de control
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,2000,89.055,máximo de los 5 cortes
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,2100,86.646,corte de control
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,2200,86.812,
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,2400,82.243,corte de control
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,1500,81.246,
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,1600,82.326,
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,1700,84.07,máximo de los 5 cortes
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,1800,81.578,corte de control
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,2000,79.833,
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,2100,77.009,corte de control
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,2200,77.175,
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,2400,81.578,corte de control
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,1500,87.227,máximo de los 5 cortes
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,1600,85.316,
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,1700,82.741,
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,1800,83.987,corte de control
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,2000,78.504,
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,2100,76.178,corte de control
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,2200,77.424,
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,2400,75.181,corte de control
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,1500,78.92,
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,1600,79.501,
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,1700,80.415,máximo de los 5 cortes
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,1800,81.412,corte de control
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,2000,76.012,
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,2100,76.51,corte de control
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,2200,76.926,
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,2400,71.028,corte de control
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,1500,81.993,
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,1600,79.501,
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,1700,83.073,
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,1800,80.249,corte de control
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,2000,81.744,
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,2100,85.898,corte de control
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,2200,83.239,máximo de los 5 cortes
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,2400,78.172,corte de control
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,1500,81.412,
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,1600,81.993,máximo de los 5 cortes
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,1700,79.584,
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,1800,76.76,corte de control
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,2000,75.929,
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,2100,76.843,corte de control
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,2200,74.351,
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,2400,76.012,corte de control
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,1500,79.501,
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,1600,76.677,
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,1700,77.84,
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,1800,81.163,corte de control
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,2000,79.252,
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,2100,80.498,corte de control
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,2200,80.913,máximo de los 5 cortes
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,2400,82.741,corte de control
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,1500,82.326,
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,1600,86.396,
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,1700,87.144,máximo de los 5 cortes
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,1800,87.476,corte de control
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,2000,83.073,
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,2100,86.396,corte de control
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,2200,83.239,
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,2400,78.006,corte de control
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,1500,85.316,máximo de los 5 cortes
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,1600,82.243,
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,1700,83.406,
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,1800,83.904,corte de control
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,2000,85.233,
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,2100,82.409,corte de control
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,2200,79.833,
+2026-10-31,5221,5221_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,2400,75.015,corte de control
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,100169,Gustavo,1500,82.076,máximo de los 5 cortes
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,100169,Gustavo,1600,79.75,
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,100169,Gustavo,1700,80.332,
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,100169,Gustavo,2000,73.437,
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,100169,Gustavo,2200,78.089,
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,121229,Gustavo,1500,84.569,
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,121229,Gustavo,1600,85.482,máximo de los 5 cortes
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,121229,Gustavo,1700,83.073,
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,121229,Gustavo,2000,78.92,
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,121229,Gustavo,2200,83.904,
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,333331,Gustavo,1500,84.818,
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,333331,Gustavo,1600,85.981,
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,333331,Gustavo,1700,86.729,máximo de los 5 cortes
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,333331,Gustavo,2000,79.833,
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,333331,Gustavo,2200,80.747,
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,384841,Gustavo,1500,87.809,máximo de los 5 cortes
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,384841,Gustavo,1600,86.064,
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,384841,Gustavo,1700,86.646,
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,384841,Gustavo,2000,81.993,
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,384841,Gustavo,2200,87.061,
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,612511,Gustavo,1500,87.642,
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,612511,Gustavo,1600,88.722,máximo de los 5 cortes
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,612511,Gustavo,1700,86.978,
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,612511,Gustavo,2000,86.978,
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,612511,Gustavo,2200,85.482,
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,629903,Gustavo,1500,89.968,
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,629903,Gustavo,1600,87.642,
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,629903,Gustavo,1700,89.387,
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,629903,Gustavo,2000,88.473,
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,629903,Gustavo,2200,92.378,máximo de los 5 cortes
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,693809,Gustavo,1500,83.987,
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,693809,Gustavo,1600,85.399,
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,693809,Gustavo,1700,86.313,
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,693809,Gustavo,2000,88.722,
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,693809,Gustavo,2200,90.55,máximo de los 5 cortes
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,761681,Gustavo,1500,83.821,
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,761681,Gustavo,1600,85.482,máximo de los 5 cortes
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,761681,Gustavo,1700,82.907,
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,761681,Gustavo,2000,85.233,
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,761681,Gustavo,2200,79.418,
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,981653,Gustavo,1500,83.572,
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,981653,Gustavo,1600,84.901,
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,981653,Gustavo,1700,82.492,
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,981653,Gustavo,2000,85.316,máximo de los 5 cortes
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,981653,Gustavo,2200,83.987,
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,983209,Gustavo,1500,88.224,máximo de los 5 cortes
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,983209,Gustavo,1600,85.316,
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,983209,Gustavo,1700,82.575,
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,983209,Gustavo,2000,81.744,
+2026-11-01,5112,5112_620_WorkFlow_01_junior_grupoA.ipynb,983209,Gustavo,2200,83.406,
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,100169,Gustavo,1500,81.744,
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,100169,Gustavo,1600,86.479,
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,100169,Gustavo,1700,90.218,máximo de los 5 cortes
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,100169,Gustavo,2000,88.473,
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,100169,Gustavo,2200,86.479,
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,121229,Gustavo,1500,83.655,
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,121229,Gustavo,1600,85.067,
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,121229,Gustavo,1700,82.409,
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,121229,Gustavo,2000,84.901,
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,121229,Gustavo,2200,86.978,máximo de los 5 cortes
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,333331,Gustavo,1500,84.403,
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,333331,Gustavo,1600,85.649,
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,333331,Gustavo,1700,86.396,
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,333331,Gustavo,2000,89.055,máximo de los 5 cortes
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,333331,Gustavo,2200,84.319,
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,384841,Gustavo,1500,81.495,
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,384841,Gustavo,1600,82.076,
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,384841,Gustavo,1700,82.824,
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,384841,Gustavo,2000,81.993,
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,384841,Gustavo,2200,90.55,máximo de los 5 cortes
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,612511,Gustavo,1500,92.045,
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,612511,Gustavo,1600,92.378,máximo de los 5 cortes
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,612511,Gustavo,1700,89.636,
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,612511,Gustavo,2000,86.064,
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,612511,Gustavo,2200,87.725,
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,629903,Gustavo,1500,85.233,
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,629903,Gustavo,1600,85.399,
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,629903,Gustavo,1700,89.719,
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,629903,Gustavo,2000,92.045,máximo de los 5 cortes
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,629903,Gustavo,2200,86.812,
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,693809,Gustavo,1500,84.984,
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,693809,Gustavo,1600,82.658,
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,693809,Gustavo,1700,80.332,
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,693809,Gustavo,2000,82.575,
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,693809,Gustavo,2200,87.144,máximo de los 5 cortes
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,761681,Gustavo,1500,84.818,máximo de los 5 cortes
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,761681,Gustavo,1600,82.741,
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,761681,Gustavo,1700,83.987,
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,761681,Gustavo,2000,82.824,
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,761681,Gustavo,2200,82.16,
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,981653,Gustavo,1500,90.633,máximo de los 5 cortes
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,981653,Gustavo,1600,88.639,
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,981653,Gustavo,1700,89.387,
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,981653,Gustavo,2000,87.809,
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,981653,Gustavo,2200,89.719,
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,983209,Gustavo,1500,91.713,máximo de los 5 cortes
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,983209,Gustavo,1600,88.473,
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,983209,Gustavo,1700,86.23,
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,983209,Gustavo,2000,89.055,
+2026-11-01,5122,5122_620_WorkFlow_01_junior_grupoA.ipynb,983209,Gustavo,2200,90.965,
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,100169,Gustavo,1500,80.415,máximo de los 5 cortes
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,100169,Gustavo,1600,77.424,
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,100169,Gustavo,1700,78.089,
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,100169,Gustavo,2000,74.101,
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,100169,Gustavo,2200,76.261,
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,121229,Gustavo,1500,81.578,
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,121229,Gustavo,1600,82.741,máximo de los 5 cortes
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,121229,Gustavo,1700,80.166,
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,121229,Gustavo,2000,75.098,
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,121229,Gustavo,2200,69.948,
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,333331,Gustavo,1500,81.661,
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,333331,Gustavo,1600,82.409,máximo de los 5 cortes
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,333331,Gustavo,1700,79.917,
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,333331,Gustavo,2000,79.418,
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,333331,Gustavo,2200,73.52,
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,384841,Gustavo,1500,85.067,máximo de los 5 cortes
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,384841,Gustavo,1600,82.658,
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,384841,Gustavo,1700,80.166,
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,384841,Gustavo,2000,72.357,
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,384841,Gustavo,2200,67.123,
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,612511,Gustavo,1500,79.086,
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,612511,Gustavo,1600,80,
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,612511,Gustavo,1700,80.249,máximo de los 5 cortes
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,612511,Gustavo,2000,75.514,
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,612511,Gustavo,2200,77.009,
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,629903,Gustavo,1500,86.978,
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,629903,Gustavo,1600,87.892,máximo de los 5 cortes
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,629903,Gustavo,1700,85.981,
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,629903,Gustavo,2000,82.16,
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,629903,Gustavo,2200,80.747,
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,693809,Gustavo,1500,84.403,
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,693809,Gustavo,1600,86.23,máximo de los 5 cortes
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,693809,Gustavo,1700,83.655,
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,693809,Gustavo,2000,80.083,
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,693809,Gustavo,2200,74.849,
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,761681,Gustavo,1500,80.747,
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,761681,Gustavo,1600,78.421,
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,761681,Gustavo,1700,79.584,
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,761681,Gustavo,2000,81.744,máximo de los 5 cortes
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,761681,Gustavo,2200,80.664,
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,981653,Gustavo,1500,84.153,
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,981653,Gustavo,1600,84.652,máximo de los 5 cortes
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,981653,Gustavo,1700,82.575,
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,981653,Gustavo,2000,77.507,
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,981653,Gustavo,2200,76.344,
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,983209,Gustavo,1500,84.735,
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,983209,Gustavo,1600,86.064,
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,983209,Gustavo,1700,87.227,máximo de los 5 cortes
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,983209,Gustavo,2000,82.326,
+2026-11-01,5212,5212_620_WorkFlow_01_junior_grupoA.ipynb,983209,Gustavo,2200,80.415,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,100169,Gustavo,1500,80.996,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,100169,Gustavo,1600,82.076,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,100169,Gustavo,1700,85.815,máximo de los 5 cortes
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,100169,Gustavo,1800,86.562,corte de control
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,100169,Gustavo,2000,82.076,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,100169,Gustavo,2100,82.409,corte de control
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,100169,Gustavo,2200,79.75,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,100169,Gustavo,2400,81.163,corte de control
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,121229,Gustavo,1500,85.15,máximo de los 5 cortes
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,121229,Gustavo,1600,82.575,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,121229,Gustavo,1700,80.581,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,121229,Gustavo,1800,84.818,corte de control
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,121229,Gustavo,2000,82.575,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,121229,Gustavo,2100,83.489,corte de control
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,121229,Gustavo,2200,81.246,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,121229,Gustavo,2400,80.083,corte de control
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,333331,Gustavo,1500,83.738,máximo de los 5 cortes
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,333331,Gustavo,1600,81.744,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,333331,Gustavo,1700,79.75,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,333331,Gustavo,1800,80.332,corte de control
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,333331,Gustavo,2000,78.255,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,333331,Gustavo,2100,79.169,corte de control
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,333331,Gustavo,2200,79.169,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,333331,Gustavo,2400,79.003,corte de control
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,384841,Gustavo,1500,81.329,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,384841,Gustavo,1600,81.993,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,384841,Gustavo,1700,83.738,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,384841,Gustavo,1800,85.067,corte de control
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,384841,Gustavo,2000,79.667,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,384841,Gustavo,2100,80.747,corte de control
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,384841,Gustavo,2200,84.319,máximo de los 5 cortes
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,384841,Gustavo,2400,85.482,corte de control
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,612511,Gustavo,1500,82.16,máximo de los 5 cortes
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,612511,Gustavo,1600,79.667,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,612511,Gustavo,1700,77.009,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,612511,Gustavo,1800,77.923,corte de control
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,612511,Gustavo,2000,76.012,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,612511,Gustavo,2100,73.188,corte de control
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,612511,Gustavo,2200,74.184,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,612511,Gustavo,2400,75.68,corte de control
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,629903,Gustavo,1500,81.495,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,629903,Gustavo,1600,82.99,máximo de los 5 cortes
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,629903,Gustavo,1700,80.747,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,629903,Gustavo,1800,78.172,corte de control
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,629903,Gustavo,2000,75.929,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,629903,Gustavo,2100,77.009,corte de control
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,629903,Gustavo,2200,77.424,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,629903,Gustavo,2400,84.984,corte de control
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,693809,Gustavo,1500,84.319,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,693809,Gustavo,1600,88.722,máximo de los 5 cortes
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,693809,Gustavo,1700,86.562,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,693809,Gustavo,1800,83.904,corte de control
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,693809,Gustavo,2000,82.16,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,693809,Gustavo,2100,79.501,corte de control
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,693809,Gustavo,2200,77.258,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,693809,Gustavo,2400,74.683,corte de control
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,761681,Gustavo,1500,80.332,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,761681,Gustavo,1600,81.495,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,761681,Gustavo,1700,79.252,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,761681,Gustavo,1800,77.092,corte de control
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,761681,Gustavo,2000,81.91,máximo de los 5 cortes
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,761681,Gustavo,2100,82.658,corte de control
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,761681,Gustavo,2200,80.249,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,761681,Gustavo,2400,85.067,corte de control
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,981653,Gustavo,1500,82.076,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,981653,Gustavo,1600,82.741,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,981653,Gustavo,1700,83.572,máximo de los 5 cortes
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,981653,Gustavo,1800,80.83,corte de control
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,981653,Gustavo,2000,75.431,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,981653,Gustavo,2100,76.344,corte de control
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,981653,Gustavo,2200,81.246,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,981653,Gustavo,2400,79.833,corte de control
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,983209,Gustavo,1500,95.119,máximo de los 5 cortes
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,983209,Gustavo,1600,92.627,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,983209,Gustavo,1700,90.467,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,983209,Gustavo,1800,87.809,corte de control
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,983209,Gustavo,2000,82.99,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,983209,Gustavo,2100,80.249,corte de control
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,983209,Gustavo,2200,77.757,
+2026-11-01,5222,5222_620_WorkFlow_01_junior_grupoA.ipynb,983209,Gustavo,2400,75.68,corte de control
+2026-11-01,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,1400,89.719,"corte de prueba 1400 (generar_corte.py), no entra en la métrica"
+2026-11-01,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,1400,74.351,"corte de prueba 1400 (generar_corte.py), no entra en la métrica"
+2026-11-01,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,1400,80,"corte de prueba 1400 (generar_corte.py), no entra en la métrica"
+2026-11-01,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,1400,80.415,"corte de prueba 1400 (generar_corte.py), no entra en la métrica"
+2026-11-01,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,1400,86.895,"corte de prueba 1400 (generar_corte.py), no entra en la métrica"
+2026-11-01,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,1400,80.166,"corte de prueba 1400 (generar_corte.py), no entra en la métrica"
+2026-11-01,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,1400,90.799,"corte de prueba 1400 (generar_corte.py), no entra en la métrica"
+2026-11-01,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,1400,89.885,"corte de prueba 1400 (generar_corte.py), no entra en la métrica"
+2026-11-01,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,1400,77.507,"corte de prueba 1400 (generar_corte.py), no entra en la métrica"
+2026-11-01,5100,5100_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,1400,76.926,"corte de prueba 1400 (generar_corte.py), no entra en la métrica"
+2026-11-01,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,1500,89.968,
+2026-11-01,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,1600,87.642,
+2026-11-01,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,1700,89.387,
+2026-11-01,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,2000,88.473,
+2026-11-01,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,2200,92.378,máximo de los 5 cortes
+2026-11-01,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,1500,84.818,
+2026-11-01,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,1600,85.981,
+2026-11-01,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,1700,86.729,máximo de los 5 cortes
+2026-11-01,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,2000,79.833,
+2026-11-01,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,2200,80.747,
+2026-11-02,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,1500,84.569,
+2026-11-02,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,1600,85.482,máximo de los 5 cortes
+2026-11-02,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,1700,83.073,
+2026-11-02,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,2000,78.92,
+2026-11-02,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,2200,83.904,
+2026-11-02,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,1500,88.224,máximo de los 5 cortes
+2026-11-02,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,1600,85.316,
+2026-11-02,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,1700,82.575,
+2026-11-02,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,2000,81.744,
+2026-11-02,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,2200,83.406,
+2026-11-02,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,1500,82.076,máximo de los 5 cortes
+2026-11-02,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,1600,79.75,
+2026-11-02,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,1700,80.332,
+2026-11-02,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,2000,73.437,
+2026-11-02,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,2200,78.089,
+2026-11-02,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,1500,87.809,máximo de los 5 cortes
+2026-11-02,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,1600,86.064,
+2026-11-02,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,1700,86.646,
+2026-11-02,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,2000,81.993,
+2026-11-02,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,2200,87.061,
+2026-11-02,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,1500,87.642,
+2026-11-02,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,1600,88.722,máximo de los 5 cortes
+2026-11-02,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,1700,86.978,
+2026-11-02,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,2000,86.978,
+2026-11-02,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,2200,85.482,
+2026-11-02,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,1500,83.987,
+2026-11-02,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,1600,85.399,
+2026-11-02,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,1700,86.313,
+2026-11-02,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,2000,88.722,
+2026-11-02,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,2200,90.55,máximo de los 5 cortes
+2026-11-02,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,1500,83.821,
+2026-11-02,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,1600,85.482,máximo de los 5 cortes
+2026-11-02,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,1700,82.907,
+2026-11-02,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,2000,85.233,
+2026-11-02,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,2200,79.418,
+2026-11-02,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,1500,84.486,
+2026-11-02,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,1600,81.91,
+2026-11-02,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,1700,85.898,máximo de los 5 cortes
+2026-11-02,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,2000,85.399,
+2026-11-02,45112,45112_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,2200,80,
+2026-11-01,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,1500,85.233,
+2026-11-01,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,1600,85.399,
+2026-11-01,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,1700,89.719,
+2026-11-01,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,2000,92.045,máximo de los 5 cortes
+2026-11-01,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,2200,86.812,
+2026-11-01,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,1500,84.403,
+2026-11-01,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,1600,85.649,
+2026-11-01,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,1700,86.396,
+2026-11-01,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,2000,89.055,máximo de los 5 cortes
+2026-11-01,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,2200,84.319,
+2026-11-01,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,1500,83.655,
+2026-11-01,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,1600,85.067,
+2026-11-01,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,1700,82.409,
+2026-11-01,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,2000,84.901,
+2026-11-01,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,2200,86.978,máximo de los 5 cortes
+2026-11-02,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,1500,91.713,máximo de los 5 cortes
+2026-11-02,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,1600,88.473,
+2026-11-02,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,1700,86.23,
+2026-11-02,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,2000,89.055,
+2026-11-02,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,2200,90.965,
+2026-11-02,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,1500,81.744,
+2026-11-02,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,1600,86.479,
+2026-11-02,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,1700,90.218,máximo de los 5 cortes
+2026-11-02,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,2000,88.473,
+2026-11-02,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,2200,86.479,
+2026-11-02,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,1500,81.495,
+2026-11-02,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,1600,82.076,
+2026-11-02,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,1700,82.824,
+2026-11-02,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,2000,81.993,
+2026-11-02,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,2200,90.55,máximo de los 5 cortes
+2026-11-02,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,1500,92.045,
+2026-11-02,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,1600,92.378,máximo de los 5 cortes
+2026-11-02,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,1700,89.636,
+2026-11-02,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,2000,86.064,
+2026-11-02,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,2200,87.725,
+2026-11-02,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,1500,84.984,
+2026-11-02,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,1600,82.658,
+2026-11-02,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,1700,80.332,
+2026-11-02,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,2000,82.575,
+2026-11-02,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,2200,87.144,máximo de los 5 cortes
+2026-11-02,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,1500,84.818,máximo de los 5 cortes
+2026-11-02,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,1600,82.741,
+2026-11-02,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,1700,83.987,
+2026-11-02,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,2000,82.824,
+2026-11-02,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,2200,82.16,
+2026-11-02,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,1500,90.633,máximo de los 5 cortes
+2026-11-02,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,1600,88.639,
+2026-11-02,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,1700,89.387,
+2026-11-02,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,2000,87.809,
+2026-11-02,45122,45122_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,2200,89.719,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,1500,81.744,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,1600,79.418,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,1700,83.073,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,1800,80.747,corte de control
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,2000,84.319,máximo de los 5 cortes
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,2100,85.067,corte de control
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,2200,82.243,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,629903,Carla,2400,84.153,corte de control
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,1500,80.747,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,1600,82.16,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,1700,83.655,máximo de los 5 cortes
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,1800,81.163,corte de control
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,2000,82.741,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,2100,79.501,corte de control
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,2200,76.843,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,333331,Carla,2400,78.338,corte de control
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,1500,87.642,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,1600,88.889,máximo de los 5 cortes
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,1700,86.479,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,1800,83.655,corte de control
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,2000,82.326,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,2100,79.086,corte de control
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,2200,76.261,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,121229,Carla,2400,77.923,corte de control
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,1500,84.319,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,1600,85.482,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,1700,89.138,máximo de los 5 cortes
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,1800,87.476,corte de control
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,2000,85.898,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,2100,83.572,corte de control
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,2200,84.07,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,983209,Carla,2400,79.501,corte de control
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,1500,81.08,máximo de los 5 cortes
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,1600,78.67,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,1700,76.261,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,1800,80.913,corte de control
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,2000,79.169,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,2100,76.926,corte de control
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,2200,74.018,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,100169,Carla,2400,69.117,corte de control
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,1500,87.975,máximo de los 5 cortes
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,1600,85.482,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,1700,83.239,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,1800,80.664,corte de control
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,2000,78.172,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,2100,78.92,corte de control
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,2200,76.095,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,384841,Carla,2400,72.108,corte de control
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,1500,84.07,máximo de los 5 cortes
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,1600,82.076,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,1700,83.239,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,1800,84.486,corte de control
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,2000,78.92,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,2100,79.501,corte de control
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,2200,76.51,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,612511,Carla,2400,71.941,corte de control
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,1500,84.818,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,1600,86.23,máximo de los 5 cortes
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,1700,83.323,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,1800,81.495,corte de control
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,2000,79.584,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,2100,79.833,corte de control
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,2200,80.581,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,693809,Carla,2400,78.753,corte de control
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,1500,84.652,máximo de los 5 cortes
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,1600,82.326,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,1700,79.833,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,1800,77.341,corte de control
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,2000,72.855,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,2100,70.861,corte de control
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,2200,71.692,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,761681,Carla,2400,70.529,corte de control
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,1500,81.744,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,1600,82.575,máximo de los 5 cortes
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,1700,80.249,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,1800,77.341,corte de control
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,2000,82.492,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,2100,79.833,corte de control
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,2200,80.83,
+2026-11-03,5211,5211_620_WorkFlow_01_junior_grupoA.ipynb,981653,Carla,2400,79.335,corte de control

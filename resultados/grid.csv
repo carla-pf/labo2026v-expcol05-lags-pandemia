@@ -1,0 +1,124 @@
+Experimento,Quién,Semilla del grid,num_leaves,min_data_in_leaf,feature_fraction,Iteraciones,AUC,En el borde / notas
+5001,Ian,629903,256,2048,0.8,122,0.9335,"piloto, no entra"
+5001,Carla,384841,384,1024,0.8,78,0.9342,"piloto, no entra"
+5100,Carla,629903,384,2048,0.5,132,0.9343,"grilla vieja (27/10), no entra"
+5100,Carla,100169,384,1024,0.5,102,,ninguno
+5100,Carla,121229,128,1024,0.8,85,,ninguno
+5100,Carla,333331,768,1024,0.8,112,,ninguno
+5100,Carla,384841,512,1024,0.8,88,,ninguno
+5100,Carla,612511,384,2048,0.5,121,,min_data_in_leaf
+5100,Carla,629903,384,2048,0.5,132,,min_data_in_leaf
+5100,Carla,693809,384,1024,0.8,163,,ninguno
+5100,Carla,761681,256,2048,0.5,126,,min_data_in_leaf
+5100,Carla,981653,64,1024,0.8,90,,ninguno
+5100,Carla,983209,128,1024,0.5,115,,ninguno
+5111,Ian,100169,512,512,0.8,106,0.9339,ninguno
+5111,Ian,121229,512,512,0.8,94,0.9334,ninguno
+5111,Ian,333331,384,512,0.5,110,0.9335,ninguno
+5111,Ian,384841,384,1024,0.5,120,0.933,ninguno
+5111,Ian,612511,256,512,0.8,87,0.9324,ninguno
+5111,Ian,629903,768,256,0.5,77,0.9334,ninguno
+5111,Ian,693809,768,512,0.5,98,0.9328,ninguno
+5111,Ian,761681,384,1024,0.8,79,0.9327,ninguno
+5111,Ian,981653,384,1024,0.5,92,0.9329,ninguno
+5111,Ian,983209,256,512,0.5,110,0.9327,ninguno
+5121,Ian,100169,512,1024,0.8,143,0.9325,ninguno
+5121,Ian,121229,128,1024,0.8,88,0.9323,ninguno
+5121,Ian,333331,128,512,0.5,111,0.9325,ninguno
+5121,Ian,384841,384,1024,0.5,120,0.9329,ninguno
+5121,Ian,612511,256,1024,0.5,104,0.9322,ninguno
+5121,Ian,629903,1024,512,0.5,90,0.9325,num_leaves
+5121,Ian,693809,512,512,0.8,76,0.933,ninguno
+5121,Ian,761681,64,2048,0.5,146,0.932,min_data_in_leaf
+5121,Ian,981653,256,2048,0.8,180,0.9324,min_data_in_leaf
+5121,Ian,983209,256,1024,0.5,105,0.9319,ninguno
+5200,Carla,100169,768,1024,0.8,99,,ninguno
+5200,Carla,121229,64,1024,0.8,112,,ninguno
+5200,Carla,333331,384,1024,0.5,101,,ninguno
+5200,Carla,384841,384,1024,0.8,88,,ninguno
+5200,Carla,612511,256,2048,0.8,137,,min_data_in_leaf
+5200,Carla,629903,64,1024,0.8,145,,ninguno
+5200,Carla,693809,64,1024,0.8,131,,ninguno
+5200,Carla,761681,64,512,0.8,181,,ninguno
+5200,Carla,981653,256,2048,0.5,153,,min_data_in_leaf
+5200,Carla,983209,384,2048,0.8,101,,min_data_in_leaf
+5221,Carla,100169,32,512,0.5,212,,num_leaves
+5221,Carla,121229,128,1024,0.5,129,,ninguno
+5221,Carla,333331,256,2048,0.8,116,,min_data_in_leaf
+5221,Carla,384841,64,512,0.5,170,,ninguno
+5221,Carla,612511,512,512,0.5,81,,ninguno
+5221,Carla,629903,32,512,0.8,211,,num_leaves
+5221,Carla,693809,384,1024,0.8,88,,ninguno
+5221,Carla,761681,384,512,0.5,106,,ninguno
+5221,Carla,981653,32,1024,0.5,185,,num_leaves
+5221,Carla,983209,64,2048,0.5,168,,min_data_in_leaf
+5112,Gustavo,100169,384,512,0.8,85,,ninguno
+5112,Gustavo,121229,512,1024,0.5,138,,ninguno
+5112,Gustavo,333331,512,512,0.8,102,,ninguno
+5112,Gustavo,384841,128,1024,0.5,109,,ninguno
+5112,Gustavo,612511,1024,512,0.8,101,,num_leaves
+5112,Gustavo,629903,384,1024,0.5,96,,ninguno
+5112,Gustavo,693809,1024,64,0.8,232,,num_leaves+min_data_in_leaf
+5112,Gustavo,761681,384,1024,0.5,109,,ninguno
+5112,Gustavo,981653,1024,64,0.5,205,,num_leaves+min_data_in_leaf
+5112,Gustavo,983209,128,2048,0.5,90,,min_data_in_leaf
+5122,Gustavo,100169,384,1024,0.8,119,,ninguno
+5122,Gustavo,121229,384,1024,0.5,129,,ninguno
+5122,Gustavo,333331,256,512,0.8,97,,ninguno
+5122,Gustavo,384841,512,512,0.5,102,,ninguno
+5122,Gustavo,612511,384,512,0.8,103,,ninguno
+5122,Gustavo,629903,128,256,0.8,107,,ninguno
+5122,Gustavo,693809,128,512,0.5,116,,ninguno
+5122,Gustavo,761681,384,512,0.5,107,,ninguno
+5122,Gustavo,981653,256,1024,0.5,93,,ninguno
+5122,Gustavo,983209,128,512,0.8,98,,ninguno
+5212,Gustavo,100169,384,512,0.5,108,,ninguno
+5212,Gustavo,121229,64,512,0.8,124,,ninguno
+5212,Gustavo,333331,384,1024,0.5,103,,ninguno
+5212,Gustavo,384841,1024,512,0.8,94,,num_leaves
+5212,Gustavo,612511,128,256,0.8,77,,ninguno
+5212,Gustavo,629903,64,1024,0.5,153,,ninguno
+5212,Gustavo,693809,256,1024,0.5,116,,ninguno
+5212,Gustavo,761681,64,2048,0.5,137,,min_data_in_leaf
+5212,Gustavo,981653,256,1024,0.8,95,,ninguno
+5212,Gustavo,983209,512,1024,0.8,81,,ninguno
+5222,Gustavo,100169,64,2048,0.5,109,,min_data_in_leaf
+5222,Gustavo,121229,64,512,0.5,170,,ninguno
+5222,Gustavo,333331,32,64,0.8,184,,num_leaves+min_data_in_leaf
+5222,Gustavo,384841,256,512,0.8,89,,ninguno
+5222,Gustavo,612511,256,2048,0.8,170,,min_data_in_leaf
+5222,Gustavo,629903,128,512,0.8,109,,ninguno
+5222,Gustavo,693809,64,2048,0.5,125,,min_data_in_leaf
+5222,Gustavo,761681,256,1024,0.5,91,,ninguno
+5222,Gustavo,981653,64,1024,0.8,147,,ninguno
+5222,Gustavo,983209,128,512,0.5,74,,ninguno
+45112,Carla,100169,384,512,0.8,85,,ninguno · igual que 5112
+45112,Carla,121229,512,1024,0.5,138,,ninguno · igual que 5112
+45112,Carla,333331,512,512,0.8,102,,ninguno · igual que 5112
+45112,Carla,384841,128,1024,0.5,109,,ninguno · igual que 5112
+45112,Carla,612511,1024,512,0.8,101,,ninguno · igual que 5112 (en 5112 num_leaves estaba en el borde)
+45112,Carla,629903,384,1024,0.5,96,,ninguno · igual que 5112
+45112,Carla,693809,1024,64,0.8,232,,ninguno · igual que 5112 (en 5112 los dos estaban en el borde)
+45112,Carla,761681,384,1024,0.5,109,,ninguno · igual que 5112
+45112,Carla,981653,1536,32,0.8,448,,"num_leaves+min_data_in_leaf, en el borde de la grilla ampliada · en 5112 eligió 1024 / 64 / 0,5"
+45112,Carla,983209,128,2048,0.5,90,,ninguno · igual que 5112 (en 5112 min_data_in_leaf estaba en el borde)
+45122,Carla,100169,384,1024,0.8,119,,ninguno · igual que 5122
+45122,Carla,121229,384,1024,0.5,129,,ninguno · igual que 5122
+45122,Carla,333331,256,512,0.8,97,,ninguno · igual que 5122
+45122,Carla,384841,512,512,0.5,102,,ninguno · igual que 5122
+45122,Carla,612511,384,512,0.8,103,,ninguno · igual que 5122
+45122,Carla,629903,128,256,0.8,107,,ninguno · igual que 5122
+45122,Carla,693809,128,512,0.5,116,,ninguno · igual que 5122
+45122,Carla,761681,384,512,0.5,107,,ninguno · igual que 5122
+45122,Carla,981653,256,1024,0.5,93,,ninguno · igual que 5122
+45122,Carla,983209,128,512,0.8,98,,ninguno · igual que 5122
+5211,Carla,100169,256,1024,0.8,96,,ninguno
+5211,Carla,121229,256,2048,0.5,118,,min_data_in_leaf · sus scores reproducen exactamente los de Ian
+5211,Carla,333331,512,512,0.8,96,,ninguno · sus scores reproducen exactamente los de Ian
+5211,Carla,384841,384,1024,0.5,99,,ninguno
+5211,Carla,612511,1024,512,0.5,83,,num_leaves
+5211,Carla,629903,64,2048,0.5,176,,min_data_in_leaf · sus scores reproducen exactamente los de Ian
+5211,Carla,693809,256,2048,0.5,168,,min_data_in_leaf
+5211,Carla,761681,128,256,0.5,146,,ninguno
+5211,Carla,981653,256,1024,0.5,111,,ninguno
+5211,Carla,983209,64,1024,0.5,126,,ninguno · sus scores reproducen exactamente los de Ian

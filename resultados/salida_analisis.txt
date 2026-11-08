@@ -1,0 +1,80 @@
+Filas leidas: 975 | filas que entran en la metrica: 620 
+
+=== Chequeo de reproducibilidad (mismo experimento, semilla y corte, corrido por distintas personas) ===
+ experimento semilla corte ganancia.Ian ganancia.Carla diferencia igual
+        5211  121229  1500       87.642         87.642          0    SI
+        5211  121229  1600       88.889         88.889          0    SI
+        5211  121229  1700       86.479         86.479          0    SI
+        5211  121229  2000       82.326         82.326          0    SI
+        5211  121229  2200       76.261         76.261          0    SI
+        5211  333331  1500       80.747         80.747          0    SI
+        5211  333331  1600       82.160         82.160          0    SI
+        5211  333331  1700       83.655         83.655          0    SI
+        5211  333331  2000       82.741         82.741          0    SI
+        5211  333331  2200       76.843         76.843          0    SI
+        5211  629903  1500       81.744         81.744          0    SI
+        5211  629903  1600       79.418         79.418          0    SI
+        5211  629903  1700       83.073         83.073          0    SI
+        5211  629903  2000       84.319         84.319          0    SI
+        5211  629903  2200       82.243         82.243          0    SI
+        5211  983209  1500       84.319         84.319          0    SI
+        5211  983209  1600       85.482         85.482          0    SI
+        5211  983209  1700       89.138         89.138          0    SI
+        5211  983209  2000       85.898         85.898          0    SI
+        5211  983209  2200       84.070         84.070          0    SI
+
+Iguales: 20 de 20 
+
+=== Ganancia por experimento (maximo de los 5 cortes, en millones) ===
+ experimento semillas media desvio minimo maximo
+        5100       10 87.93   2.33 84.319 92.128
+        5111       10 88.41   2.33 85.233 92.045
+        5112       10 87.28   2.94 82.076 92.378
+        5121       10 88.37   3.35 84.818 94.704
+        5122       10 89.55   2.51 84.818 92.378
+        5200       10 82.33   2.74 77.674 86.064
+        5211       10 85.26   2.72 81.080 89.138
+        5212       10 83.86   2.75 80.249 87.892
+        5221       10 84.59   2.94 80.415 89.055
+        5222       10 85.35   3.96 81.910 95.119
+       45112       10 87.33   2.90 82.076 92.378
+       45122       10 89.55   2.51 84.818 92.378
+
+=== Comparacion principal: C3 contra C2 (Wilcoxon pareado por semilla) ===
+    comparacion    a    b pares dif_media dif_mediana gana_a empates p_wilcoxon p_holm
+ L1 R: C3 vs C2 5121 5111    10    -0.050      -1.371      4       0     0.7695 1.0000
+ L1 A: C3 vs C2 5122 5112    10     2.276       2.534      7       0     0.0645 0.2580
+ L2 R: C3 vs C2 5221 5211    10    -0.665      -0.914      4       0     0.6250 1.0000
+ L2 A: C3 vs C2 5222 5212    10     1.487       1.620      7       0     0.1602 0.4806
+
+=== Comparaciones secundarias: contra la base ===
+      comparacion    a    b pares dif_media dif_mediana gana_a empates p_wilcoxon p_holm
+ L1 R: C2 vs base 5111 5100    10     0.482      -0.249      4       0     0.8262 1.0000
+ L1 R: C3 vs base 5121 5100    10     0.432       1.288      6       0     0.6953 1.0000
+ L1 A: C2 vs base 5112 5100    10    -0.656       0.415      6       0     1.0000 1.0000
+ L1 A: C3 vs base 5122 5100    10     1.620       2.326      6       0     0.1602 0.8010
+ L2 R: C2 vs base 5211 5200    10     2.933       3.116      9       0     0.0371 0.2968
+ L2 R: C3 vs base 5221 5200    10     2.268       2.243      7       0     0.0840 0.5040
+ L2 A: C2 vs base 5212 5200    10     1.537       2.451      6       0     0.3750 1.0000
+ L2 A: C3 vs base 5222 5200    10     3.024       2.908      8       0     0.0371 0.2968
+
+=== Exploratoria: familia L1 contra familia L2 ===
+    comparacion    a    b pares dif_media dif_mediana gana_a empates p_wilcoxon p_holm
+ Base: L1 vs L2 5100 5200    10     5.607       5.441     10       0     0.0020 0.0100
+ C2 R: L1 vs L2 5111 5211    10     3.157       2.658      9       0     0.0059 0.0177
+ C3 R: L1 vs L2 5121 5221    10     3.772       3.946      7       0     0.0840 0.0840
+ C2 A: L1 vs L2 5112 5212    10     3.414       3.240     10       0     0.0020 0.0100
+ C3 A: L1 vs L2 5122 5222    10     4.204       4.860      8       0     0.0195 0.0390
+
+=== Chequeo de sensibilidad de la grilla ===
+                     comparacion     a     b pares dif_media dif_mediana gana_a empates p_wilcoxon p_holm
+       L1 A: C3 vs C2, grilla v3  5122  5112    10     2.276       2.534      7       0     0.0645     NA
+ L1 A: C3 vs C2, grilla ampliada 45122 45112    10     2.218       2.534      7       0     0.0645     NA
+              C2: ampliada vs v3 45112  5112    10     0.058       0.000      1       9     1.0000     NA
+              C3: ampliada vs v3 45122  5122    10     0.000       0.000      0      10         NA     NA
+
+dif_media y dif_mediana: a - b, en millones. gana_a: semillas en las que a supera a b.
+ p_holm: p ajustado por Holm dentro de cada familia de comparaciones.
+ En 'ampliada vs v3', los empates son semillas en las que el grid eligio los mismos hiperparametros y el modelo es identico.
+
+Guardado: resultados/ganancia_por_semilla.csv y resultados/comparaciones.csv
