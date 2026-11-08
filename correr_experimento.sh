@@ -1,6 +1,8 @@
 #!/bin/bash
 # ExpCol #05 - Corre el notebook COMPLETO una vez por semilla (grid search incluido).
 # Uso:   bash correr_experimento.sh 5111
+#        bash correr_experimento.sh 5211 "629903 333331 121229 983209 100169"   (solo esas semillas,
+#        para repartir un experimento entre dos VMs sin que corran la misma semilla)
 # Si la VM se apaga a mitad de camino, se vuelve a lanzar igual:
 # saltea las semillas que ya terminaron (las que tienen PARAM.yml).
 
@@ -10,7 +12,7 @@ if [ -z "$EXP" ]; then echo "Falta el numero de experimento. Ej: bash correr_exp
 NB=$HOME/buckets/b1/labo2026v/ExpColaborativos/${EXP}_620_WorkFlow_01_junior_grupoA.ipynb
 if [ ! -f "$NB" ]; then echo "No encuentro $NB"; exit 1; fi
 
-SEMILLAS="629903 333331 121229 983209 100169 384841 612511 693809 761681 981653"
+SEMILLAS=${2:-"629903 333331 121229 983209 100169 384841 612511 693809 761681 981653"}
 
 for S in $SEMILLAS; do
   OUT=$HOME/buckets/b1/exp/WF${EXP}/s${S}
