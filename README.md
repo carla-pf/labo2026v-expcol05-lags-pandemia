@@ -171,3 +171,6 @@ Salidas esperadas: con la misma semilla, el mismo notebook da los mismos hiperpa
 ## Enlaces
 
 - Bitácora: https://docs.google.com/spreadsheets/d/1ZHsmXmayEYXfLRdt0v0EbGCLv3adXTMK9p7MZ2rgPKM
+
+- Video (Lags en Debate): https://www.youtube.com/watch?v=0LJtRD2K4mg
+
